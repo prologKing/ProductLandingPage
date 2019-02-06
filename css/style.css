@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+#nav-bar {
+  position: fixed;
+  background: #cacaca;
+  width: 100%;
+  padding: 10px; 
+}
+
+header img {
+  margin-top: 100px;
+}
